@@ -2,7 +2,7 @@
 
 A colourful 2D game that teaches children how to sort waste into **Wet**, **Dry** and **Recycle** bins, built with **Python** and **Pygame**. All the Computer Graphics (transformations, line and circle drawing, polygon filling, clipping and viewport mapping) is written by hand instead of using ready-made library functions.
 
-> Mini project for the **Computer Graphics Lab** (course code 5.5CE109E02H), B.Tech CSE, 5th semester, 2026-2027, Department of Computer Science and Engineering, MRIIRS.
+> Mini project for the **Computer Graphics Lab**
 
 ![EcoSort title screen](screenshots/01-title-screen.png)
 
