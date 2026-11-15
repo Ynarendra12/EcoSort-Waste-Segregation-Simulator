@@ -111,19 +111,19 @@ python main.py
 
 ## Computer Graphics Concepts Used
 
-| Unit | Topic | Where it is used | File |
+| S.NO | Topic | Where it is used | File |
 | --- | --- | --- | --- |
-| 1.3 | DDA line algorithm | Picket fence rails in the park | `algorithms.py` |
-| 1.3 | Bresenham's line algorithm | Road dashes and sun rays | `algorithms.py` |
-| 1.4 | Midpoint circle algorithm | Ring around the sun | `algorithms.py` |
-| 2.1 | Scan-line polygon fill | Body of the dustbins | `algorithms.py` |
-| 2.2 | Translation and scaling | Walking, bus driving, gate sliding, bus door opening | `transforms.py` |
-| 2.3 | Rotation and reflection | Wheels, windmill, sun rays, pond reflection | `transforms.py` |
-| 2.3 | Shear (extra) | Swaying trees, grass and flag, shaking bin | `transforms.py` |
-| 2.4 | Composite transformations | Rotation about a pivot: translate, rotate, translate back | `transforms.py` |
-| 2.5 | Matrix representation (2D) | 3x3 homogeneous matrices | `transforms.py` |
-| 3.1 | Window to viewport mapping | Route mini-map on the bus ride | `transforms.py`, `scene_school.py` |
-| 3.2, 3.3 | Line clipping (Cohen-Sutherland) | Road dashes clipped to the screen | `algorithms.py`, `scene_school.py` |
+| 1 | DDA line algorithm | Picket fence rails in the park | `algorithms.py` |
+| 2 | Bresenham's line algorithm | Road dashes and sun rays | `algorithms.py` |
+| 3 | Midpoint circle algorithm | Ring around the sun | `algorithms.py` |
+| 4 | Scan-line polygon fill | Body of the dustbins | `algorithms.py` |
+| 5 | Translation and scaling | Walking, bus driving, gate sliding, bus door opening | `transforms.py` |
+| 6 | Rotation and reflection | Wheels, windmill, sun rays, pond reflection | `transforms.py` |
+| 7 | Shear (extra) | Swaying trees, grass and flag, shaking bin | `transforms.py` |
+| 8 | Composite transformations | Rotation about a pivot: translate, rotate, translate back | `transforms.py` |
+| 9 | Matrix representation (2D) | 3x3 homogeneous matrices | `transforms.py` |
+| 10 | Window to viewport mapping | Route mini-map on the bus ride | `transforms.py`, `scene_school.py` |
+| 11 | Line clipping (Cohen-Sutherland) | Road dashes clipped to the screen | `algorithms.py`, `scene_school.py` |
 | Extra | Hierarchical modelling | Characters whose arms and legs rotate about joints | `characters.py` |
 
 ## Project Structure
