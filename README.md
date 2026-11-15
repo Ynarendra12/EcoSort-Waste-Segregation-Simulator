@@ -4,7 +4,7 @@ A colourful 2D game that teaches children how to sort waste into **Wet**, **Dry*
 
 > Mini project for the **Computer Graphics Lab**
 
-![EcoSort title screen](screenshots/01-title-screen.png)
+<img width="900" height="563" alt="image" src="https://github.com/user-attachments/assets/940c45c8-020b-4c13-a2e2-c6b66eacf722" />
 
 ## Table of Contents
 - [About the Project](#about-the-project)
