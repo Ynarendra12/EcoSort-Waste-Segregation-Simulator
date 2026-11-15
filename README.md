@@ -35,34 +35,34 @@ Many children do not know which waste goes into which bin. EcoSort turns a norma
 ## Screenshots
 
 ### Figure 1: Title screen and character selection
-![Title screen with four characters](screenshots/01-title-screen.png)
+<img width="900" height="563" alt="image" src="https://github.com/user-attachments/assets/c99d847b-3eee-4545-8d73-853b81f6b1e5" />
 
 ### Figure 2: Places menu
-![Places menu with School Day and Park Picnic](screenshots/02-places-menu.png)
+<img width="900" height="563" alt="image" src="https://github.com/user-attachments/assets/a5f57f6c-e062-49dd-a9e9-8e19439f3e3f" />
 
 ### Figure 3: School Day, at home
-![Character at home with school bag, lunch box and water bottle](screenshots/03-school-home.png)
+<img width="900" height="563" alt="image" src="https://github.com/user-attachments/assets/64f71e75-9c05-4e74-a9fd-98d613d9c250" />
 
 ### Figure 4: School Day, bus ride
-![School bus on the road with a route mini-map](screenshots/04-bus-ride.png)
+<img width="900" height="563" alt="image" src="https://github.com/user-attachments/assets/07455a02-89eb-4131-b8a5-20e23bb49bf8" />
 
 ### Figure 5: School Day, classroom
-![Classroom with teacher and students](screenshots/05-classroom.png)
+<img width="900" height="563" alt="image" src="https://github.com/user-attachments/assets/c8eab041-ffb8-4e40-bd63-aa142717abc2" />
 
 ### Figure 6: Canteen menu
-![Canteen snack menu with six items](screenshots/06-canteen-menu.png)
+<img width="900" height="563" alt="image" src="https://github.com/user-attachments/assets/8c606752-2c82-4ff7-b63c-1c3b3a5d6f5e" />
 
 ### Figure 7: Dustbins in the canteen
-![Character carrying waste near the Wet, Dry and Recycle dustbins](screenshots/07-canteen-bins.png)
+<img width="900" height="563" alt="image" src="https://github.com/user-attachments/assets/3a030e50-fe38-4e00-8cbd-64f9415ba916" />
 
 ### Figure 8: Park Picnic level
-![Park scene with pond, windmill and dustbins](screenshots/08-park-picnic.png)
+<img width="900" height="563" alt="image" src="https://github.com/user-attachments/assets/5fce246f-e32d-4e72-b4d1-b9db67844e37" />
 
 ### Figure 9: Level result
-![Level complete screen with stars, score and accuracy](screenshots/09-level-result.png)
+<img width="900" height="563" alt="image" src="https://github.com/user-attachments/assets/3138f766-55b3-4aa5-ad78-3265db13774c" />
 
 ### Figure 10: Final Eco Score
-![Final Eco Score screen with rating](screenshots/10-eco-score.png)
+<img width="900" height="563" alt="image" src="https://github.com/user-attachments/assets/dbb167b5-aadf-45d7-9dac-ae25e99c8027" />
 
 *The scores on the result screens are sample values used to take the screenshots.*
 
