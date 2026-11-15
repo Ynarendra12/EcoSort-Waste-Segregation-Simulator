@@ -161,5 +161,3 @@ The graphics functions and game rules were checked with an automated script (23 
 
 ## Author
 **Yerragolla Narendra**
-B.Tech CSE, Department of Computer Science and Engineering, MRIIRS
-Computer Graphics Lab Mini Project, 2026-2027
